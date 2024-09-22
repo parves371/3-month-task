@@ -1,7 +1,8 @@
 import React from "react";
+import Home from "./components/pages/Home";
 
 const App = () => {
-  return <div className="bg-black">App</div>;
+  return <Home />;
 };
 
 export default App;
